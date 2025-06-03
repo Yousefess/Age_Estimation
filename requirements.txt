@@ -1,0 +1,9 @@
+face-recognition
+torch
+torchvision
+torchmetrics
+sklearn
+pandas
+matplotlib
+numpy
+tqdm
